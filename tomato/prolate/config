@@ -1,0 +1,12 @@
+export ROTMAX_X=-45
+export RANGEY=15
+export PIXELSTEP=4
+export TOLCONTRAST=0.08
+export DISPLAYMAP=1
+export PASOGRADOS=-2.0	#<=0 for automatic selection
+export MODELO_GEOMETRICO=0
+#Undefined = 0, Elongated = 1, Flattened = 2, Sphere = 3, Elongated_alt = 4, M_3R = 7
+export FILEXPORT=1
+export ITERMODE=0
+#0: pixelStep and tolContrast, 1: stepDeg
+export TRANSITION=5
